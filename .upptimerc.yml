@@ -19,8 +19,8 @@ status-website:
   baseUrl: /ors_status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: OCCUSTAR Status
-  introTitle: "**OCCUSTAR Status** — real-time uptime monitor, powered entirely by GitHub."
-  introMessage: This status page uses **real-time** data from our [GitHub repository](https://github.com/$OWNER/$REPO). No server required — just GitHub Actions, Issues, and Pages.
+  introTitle: "**OCCUSTAR Status** — real-time uptime monitor"
+  introMessage: Public Status page for Occustar 
   navbar:
     - title: Status
       href: /
