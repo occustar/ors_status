@@ -9,8 +9,8 @@ sites:
     url: https://scheduling.occustarsecure.com
   - name: Beta
     url: beta.occustarsecure.com
-  - name: app stable
-    url: app.occustarsecure.com
+  - name: Client
+    url: client.occustarsecure.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
