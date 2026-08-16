@@ -4,71 +4,79 @@
     "url": "https://testing.occustarsecure.com",
     "icon": "https://icons.duckduckgo.com/ip3/testing.occustarsecure.com.ico",
     "slug": "testing",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 392,
     "timeDay": 379,
     "timeWeek": 392,
     "timeMonth": 392,
     "timeYear": 392,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-16": 1
+    }
   },
   {
     "name": "Scheduling",
     "url": "https://scheduling.occustarsecure.com",
     "icon": "https://icons.duckduckgo.com/ip3/scheduling.occustarsecure.com.ico",
     "slug": "scheduling",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 525,
     "timeDay": 507,
     "timeWeek": 525,
     "timeMonth": 525,
     "timeYear": 525,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-16": 1
+    }
   },
   {
     "name": "Beta",
     "url": "beta.occustarsecure.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "beta",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 537,
     "timeDay": 521,
     "timeWeek": 537,
     "timeMonth": 537,
     "timeYear": 537,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-16": 0
+    }
   },
   {
     "name": "Client",
     "url": "client.occustarsecure.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "client",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 565,
     "timeDay": 565,
     "timeWeek": 565,
     "timeMonth": 565,
     "timeYear": 565,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-16": 0
+    }
   }
 ]
